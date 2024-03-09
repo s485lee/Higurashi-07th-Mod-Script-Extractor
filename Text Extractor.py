@@ -29,6 +29,6 @@ def process_script_files(input_folder, output_folder):
     print(f"All files have been processed and saved to {output_folder}.")
 
 # Example usage
-input_folder = '/Users/seungjaelee/Desktop/Compare/Extractor/Ch8/Script'  # Replace with the path to your input folder
-output_folder = '/Users/seungjaelee/Desktop/Compare/Extractor/Ch8/Excel'  # Replace with the path to your output folder
+input_folder = 'PATH1'  # Replace with the path to your input folder
+output_folder = 'PATH2'  # Replace with the path to your output folder
 process_script_files(input_folder, output_folder)
